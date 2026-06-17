@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://ashwinchaudhary.vercel.app" target="_blank">
+  <a href="https://ashwind.online" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/ashwin40" target="_blank">
@@ -101,7 +101,7 @@
 I'm currently **looking for work** — SDE-1 / Full-Stack roles at product companies and startups (Cred, Razorpay, Groww, and similar).
 
 <p align="center">
-  <a href="https://ashwinchaudhary.vercel.app">🌐 Portfolio</a> &nbsp;•&nbsp;
+  <a href="https://ashwind.online">🌐 Portfolio</a> &nbsp;•&nbsp;
   <a href="https://linkedin.com/in/ashwin40">💼 LinkedIn</a> &nbsp;•&nbsp;
   <a href="https://twitter.com/SyntaxAsh">🐦 Twitter / X</a>
 </p>
